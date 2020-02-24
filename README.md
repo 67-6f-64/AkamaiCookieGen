@@ -1,1 +1,1 @@
-## Pasted this from someone.
+## Reference only.
