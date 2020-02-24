@@ -1,2 +1,1 @@
-## AKAMAI WEB
-AKAMAI Sensor-Data WEB data mock
+## Pasted this from someone.
